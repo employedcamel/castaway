@@ -703,15 +703,15 @@
 	}
 	"Pomson_PreGM"
 	{
-		"pl"	"Zwiększony rozmiar pocisku (taki sam jak Prawy Bizon), pociski przelatują przez sojuszników, wyczerpywanie Ubercharge'a oraz energii niewidzialności nie zależy od dystansu, pocisk podpala strzały Łowcy"
+		"pl"	"Zwiększony rozmiar pocisku (taki sam jak Prawy Bizon), pociski przelatują przez sojuszników, wyczerpywanie Ubercharge'a oraz energii niewidzialności nie zależy od dystansu, pocisk podpala strzały Łowcy oraz ignoruje odporności"
 	}
 	"Pomson_Release"
 	{
-		"pl"	"Przywrócono do stanu sprzed aktualizacji MvM, obrażenia identyczne do Prawego Bizona, większy rozmiar pocisku, penetracja graczy, wyczerpywanie Ubercharge'a oraz energii niewidzialności nie zależy od dystansu, pocisk podpala strzały Łowcy"
+		"pl"	"Przywrócono do stanu sprzed aktualizacji MvM, obrażenia identyczne do Prawego Bizona, większy rozmiar pocisku, penetracja graczy, wyczerpywanie Ubercharge'a oraz energii niewidzialności nie zależy od dystansu, pocisk podpala strzały Łowcy oraz ignoruje odporności"
 	}
 	"Pomson_PreGM_Historical"
 	{
-		"pl"	"Przywrócono do stanu sprzed aktualizacji Siła charakteru (Gun Mettle), zwiększony rozmiar pocisku (taki sam jak Prawy Bizon), pociski nie przelatują przez sojuszników, wyczerpywanie Ubercharge'a oraz energii niewidzialności nie zależy od dystansu, pocisk podpala strzały Łowcy"
+		"pl"	"Przywrócono do stanu sprzed aktualizacji Siła charakteru (Gun Mettle), zwiększony rozmiar pocisku (taki sam jak Prawy Bizon), pociski nie przelatują przez sojuszników, wyczerpywanie Ubercharge'a oraz energii niewidzialności nie zależy od dystansu, pocisk podpala strzały Łowcy oraz ignoruje odporności"
 	}	
 	"Powerjack_PreGM"
 	{
@@ -763,7 +763,11 @@
 	}
 	"Bison_PreMYM"
 	{
-		"pl"	"Przywrócono do stanu sprzed aktualizacji Poznaj Wroga Swego (Meet your Match), zwiększony rozmiar pocisku, możliwość trafienia tego samego celu kilka razy, podpala strzały Łowcy"
+		"pl"	"Przywrócono do stanu sprzed aktualizacji Poznaj Wroga Swego (Meet your Match), zwiększony rozmiar pocisku, możliwość trafienia tego samego celu kilka razy, pocisk podpala strzały Łowcy oraz ignoruje odporności"
+	}
+	"Bison_PreMYM_Historical"
+	{
+		"pl"	"Przywrócono do stanu sprzed aktualizacji Poznaj Wroga Swego (Meet your Match), zwiększony rozmiar pocisku, możliwość trafienia tego samego celu kilka razy, pocisk podpala strzały Łowcy oraz ignoruje odporności. Obrażenia pocisku maleją wraz z zwiększającym się dystansem, jaki przebył pocisk"
 	}
 	"RocketJmp_Pre2013"
 	{
